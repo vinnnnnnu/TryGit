@@ -11,6 +11,7 @@ namespace LearnThis
         static void Main(string[] args)
         {
             //  add files to branch 1
+            // first merge from brach 1 to master
         }
     }
 }
